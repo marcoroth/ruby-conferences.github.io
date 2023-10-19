@@ -2448,6 +2448,13 @@
   twitter: brightonruby
   mastodon: https://ruby.social/@brightonruby
 
+- name: Rails World 2024
+  location: Toronto, Canada
+  start_date: 2024-09-11
+  end_date: 2024-09-12
+  url: https://rubyonrails.org/world
+  twitter: rails
+
 - name: Rubyfuza 2024
   location: Cape Town, South Africa
   start_date: 2024-10-17
