@@ -2446,7 +2446,7 @@
   twitter: tropical_rb
   mastodon: https://ruby.social/@tropicalrb
   cfp_open_date: 2023-11-28
-  cfp_close_date: 2024-01-10
+  cfp_close_date: 2024-01-10 22:30:00 UTC
   cfp_link: https://www.papercall.io/tropical-rb
 
 - name: RubyConf AU 2024
@@ -2456,7 +2456,7 @@
   url: https://rubyconf.org.au/
   twitter: rubyconf_au
   cfp_open_date: 2023-11-14
-  cfp_close_date: 2024-01-12
+  cfp_close_date: 2024-01-12 12:59:00 UTC
   cfp_link: https://sessionize.com/rubyconf-au-2024
 
 - name: wroclove.rb 2024
@@ -2467,7 +2467,7 @@
   twitter: wrocloverb
   mastodon: https://ruby.social/@wrocloverb/
   cfp_open_date: 2023-12-11
-  cfp_close_date: 2024-01-31
+  cfp_close_date: 2024-01-31 23:00:00 UTC
   cfp_link: https://forms.gle/bgTVhWZzjRV74F1x7
 
 - name: Balkan Ruby 2024
@@ -2477,7 +2477,7 @@
   url: https://balkanruby.com
   twitter: balkanruby
   cfp_open_date: 2023-11-20
-  cfp_close_date: 2024-02-02
+  cfp_close_date: 2024-02-02 22:00:00 UTC
   cfp_link: https://forms.gle/NJY9PJWpud39ZQAr8
 
 - name: RailsConf 2024
@@ -2488,7 +2488,7 @@
   twitter: railsconf
   mastodon: https://ruby.social/@railsconf
   cfp_open_date: 2024-01-24
-  cfp_close_date: 2024-02-13
+  cfp_close_date: 2024-02-13 04:59:00 UTC
   cfp_link: https://sessionize.com/railsconf2024
 
 - name: RubyKaigi 2024
@@ -2499,7 +2499,7 @@
   twitter: rubykaigi
   mastodon: https://ruby.social/@rubykaigi
   cfp_open_date: 2023-12-25
-  cfp_close_date: 2024-01-31
+  cfp_close_date: 2024-01-31 14:59 UTC
   cfp_link: https://cfp.rubykaigi.org/events/2024
 
 - name: Helvetic Ruby 2024
@@ -2510,7 +2510,7 @@
   twitter: helvetic_ruby
   mastodon: https://ruby.social/@helvetic_ruby
   cfp_open_date: 2024-01-19
-  cfp_close_date: 2024-02-25
+  cfp_close_date: 2024-02-25 23:00:00 UTC
   cfp_link: https://helvetic-ruby.ch/call-for-speakers
 
 - name: Blue Ridge Ruby 2024
@@ -2521,7 +2521,7 @@
   twitter: blueridgeruby
   mastodon: https://ruby.social/@blueridgeruby
   cfp_open_date: 2024-01-18
-  cfp_close_date: 2024-03-01
+  cfp_close_date: 2024-03-01 08:31:00 UTC
   cfp_link: https://blueridgeruby.com/cfp
 
 - name: RubyDay 2024
@@ -2531,7 +2531,7 @@
   url: https://2024.rubyday.it
   twitter: rubydayit
   cfp_open_date: 2023-11-03
-  cfp_close_date: 2024-01-31
+  cfp_close_date: 2024-01-31 22:59:00 UTC
   cfp_link: https://2024.rubyday.it/welcome/cfp.html
 
 - name: Baltic Ruby 2024
@@ -2557,7 +2557,7 @@
   twitter: brightonruby
   mastodon: https://ruby.social/@brightonruby
   cfp_open_date: 2024-01-21
-  cfp_close_date: 2024-02-29
+  cfp_close_date: 2024-02-28 23:59:00 UTC
   cfp_link: https://forms.reform.app/goodscary/brighton-ruby-2024-cfp/gci0d6
 
 - name: Madison+ Ruby 2024
@@ -2575,7 +2575,7 @@
   twitter: euruko
   mastodon: https://ruby.social/@Euruko
   cfp_open_date: 2024-01-12
-  cfp_close_date: 2024-04-15
+  cfp_close_date: 2024-04-15 10:52:00 UTC
   cfp_link: https://www.papercall.io/euruko2024
 
 - name: Friendly.rb 2024
@@ -2593,7 +2593,7 @@
   url: https://rubyonrails.org/world
   twitter: rails
   cfp_open_date: 2024-02-05
-  cfp_close_date: 2024-03-21
+  cfp_close_date: 2024-03-22 03:59:00 UTC
   cfp_link: https://sessionize.com/rails-world/
 
 - name: Rubyfuza 2024
