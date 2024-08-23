@@ -1,0 +1,46 @@
+name: Fetch Meetups
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at 00:00 UTC time
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Ruby
+
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Check for new Meetups
+        run: bundle exec rake fetch_meetups
+
+      - name: Verify Meetups Data
+        run: bundle exec rake verify_meetups
+
+      - name: Set up the formatted date and branch name
+        run: |
+          echo "FORMATTED_DATE=$(date +'%B %d, %Y')" >> $GITHUB_ENV
+          echo "BRANCH_TO_MERGE=new-meetups-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Commit New Meetups
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: New Meetups on ${{ env.FORMATTED_DATE }}
+          branch: ${{ env.BRANCH_TO_MERGE }}
+          file_pattern: '_data/*.yml'
+          status_options: '--untracked-files=no'
+          create_branch: true
+
+      - name: Create Pull Request
+        run: gh pr create -B main -H ${{ env.BRANCH_TO_MERGE }} --title "New Meetups on ${{ env.FORMATTED_DATE }}" --body "Newly added Meetups on ${{ env.FORMATTED_DATE }}."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
