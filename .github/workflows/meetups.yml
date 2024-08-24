@@ -30,6 +30,7 @@ jobs:
         run: |
           echo "FORMATTED_DATE=$(date +'%B %d, %Y')" >> $GITHUB_ENV
           echo "BRANCH_TO_MERGE=new-meetups-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          cat ./pull_reqeust_title.txt
           echo "PULL_REQUEST_TITLE=$(cat ./pull_reqeust_title.txt)" >> $GITHUB_ENV
 
       - name: Commit New Meetups

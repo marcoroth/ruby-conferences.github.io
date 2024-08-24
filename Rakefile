@@ -94,6 +94,8 @@ task :fetch_meetups do
 
   new_meetups_from_groups = new_events.group_by { |event, md| event.group["name"] }.transform_values { |value| value.map(&:first) }
 
+  puts new_meetups_from_groups.inspect
+
   if new_meetups_from_groups.keys.count == 1
     pull_request_title =  "Add #{new_meetups_from_groups.keys.first} #{Date.parse(new_meetups_from_groups.first.last.sort_by(&:dateTime).first.dateTime).strftime("%B %Y")} Meetup"
   else
