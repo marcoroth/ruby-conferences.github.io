@@ -103,7 +103,7 @@ task :fetch_meetups do
     pull_request_title = "Add #{groups.join(", ")} and #{last} Meetups"
   end
 
-  File.write("pull_request_title.txt", pull_request_title)
+  File.write("./pull_request_title.txt", pull_request_title)
 
   events = YAML.load_file("./_data/meetups.yml", permitted_classes: [Date])
 
