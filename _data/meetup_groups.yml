@@ -35,6 +35,7 @@
 - id: atlantaruby
   name: Atlanta Ruby
   service: meetupdotcom
+  remove: "[VIRTUAL] "
 
 - id: aucklandruby
   name: Auckland Ruby
@@ -426,6 +427,7 @@
 - id: paris_rb
   name: ParisRB.new
   service: meetupdotcom
+  remove: "ParisRb.new(:monthly, on: :first_tuesday)"
 
 - id: parisrb
   name: ParisRB.old
@@ -434,6 +436,7 @@
 - id: phillyrb
   name: Philly.rb
   service: meetupdotcom
+  remove: " - Global/Virtual"
 
 - id: polishrubyusergroup
   name: Polish Ruby User Group
