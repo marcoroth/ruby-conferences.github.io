@@ -1443,6 +1443,13 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/302969766
 
+- name: Philly.rb - Pubnite
+  location: Online
+  date: 2024-09-10
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
+  url: https://www.meetup.com/phillyrb/events/302815061
+
 - name: RubyJax - Open Hax
   location: Jacksonville, FL
   date: 2024-09-10
@@ -1505,13 +1512,6 @@
   start_time: 19:15:00 CEST
   end_time: 21:15:00 CEST
   url: https://www.meetup.com/paris-ruby-workshop/events/302568707
-
-- name: Philly.rb - Pubnite September 2024
-  location: Online
-  date: 2024-09-11
-  start_time: 20:30:00 EDT
-  end_time: 22:00:00 EDT
-  url: https://www.meetup.com/phillyrb/events/302815061
 
 - name: Rails Taiwan - 高雄 Rails Meetup
   location: Kaohsiung, Taiwan
@@ -1787,7 +1787,7 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsygcnblb
 
-- name: Philly.rb - Pubnite October 2024
+- name: Philly.rb - Pubnite
   location: Online
   date: 2024-10-08
   start_time: 20:30:00 EDT
@@ -2116,11 +2116,11 @@
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/bmore-on-rails/events/rkzbjsygcpbqb
 
-- name: Philly.rb - Pubnite November 2024
+- name: Philly.rb - Pubnite
   location: Online
   date: 2024-11-12
-  start_time: 20:30:00 EST
-  end_time: 22:00:00 EST
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/nnlgbtygcpbqb
 
 - name: RubyJax - Open Hax
@@ -2291,12 +2291,19 @@
   end_time: 21:00:00 PST
   url: https://www.meetup.com/sdruby/events/hjmpmtygcqbhb
 
-- name: Philly.rb - Pubnite December 2024
+- name: Philly.rb - Pubnite
   location: Online
   date: 2024-12-10
-  start_time: 20:30:00 EST
-  end_time: 22:00:00 EST
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/nnlgbtygcqbnb
+
+- name: Atlanta Ruby - The Meetup Group Monthly Meetup
+  location: Online
+  date: 2024-12-11
+  start_time: 18:30:00 EDT
+  end_time: 20:30:00 EDT
+  url: https://www.meetup.com/atlantaruby/events/tczcxrygcqbpb
 
 - name: NYC.rb - December 2024
   location: Online
@@ -2305,9 +2312,9 @@
   end_time: 19:00:00 EST
   url: https://www.meetup.com/nyc-rb/events/hkbsltygcqbpb
 
-- name: Philly.rb - Pubnite January 2025
+- name: Philly.rb - Pubnite
   location: Online
   date: 2025-01-14
-  start_time: 20:30:00 EST
-  end_time: 22:00:00 EST
+  start_time: 20:30:00 EDT
+  end_time: 22:00:00 EDT
   url: https://www.meetup.com/phillyrb/events/nnlgbtyhccbsb
