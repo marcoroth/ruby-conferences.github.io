@@ -2263,6 +2263,13 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
 
+- name: Orange County Ruby Users Group - Ruby Science
+  location: Online
+  date: 2024-11-25
+  start_time: 10:00:00 PDT
+  end_time: 11:00:00 PDT
+  url: https://www.meetup.com/ocruby/events/sdczltygcpbhc
+
 - name: Ruby on Rails Switzerland - Railshöck at On Running
   location: Zurich, Switzerland
   date: 2024-11-27
