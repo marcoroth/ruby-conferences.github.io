@@ -1345,6 +1345,13 @@
   end_time: 11:00:00 PDT
   url: https://www.meetup.com/ocruby/events/302809972
 
+- name: Bluegrass Ruby Users Group - September
+  location: Lexington, KY
+  date: 2024-09-03
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/the-bluegrass-developers-guild/events/303108245
+
 - name: Bluegrass Ruby Users Group - September 2024
   location: Lexington, KY
   date: 2024-09-03
@@ -1520,6 +1527,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/302977852
 
+- name: Ruby Montevideo - Meetup - Setiembre 2024
+  location: Montevideo, Uruguay
+  date: 2024-09-11
+  start_time: 19:00:00 -03
+  end_time: 22:00:00 -03
+  url: https://www.meetup.com/ruby-montevideo/events/303136598
+
 - name: 'African Ruby Community - Ruby Thursdays: To be determined (Zoom)'
   location: Nairobi, Kenya
   date: 2024-09-12
@@ -1541,12 +1555,26 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/columbusrb/events/xwwkltygcmbvb
 
+- name: Columbus Ruby Brigade - Monthly Meetup
+  location: Columbus, OH
+  date: 2024-09-16
+  start_time: 18:00:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/columbusrb/events/303084093
+
 - name: 'Miami Ruby Brigade - '
   location: Coral Gables, FL
   date: 2024-09-16
   start_time: 19:00:00 EDT
   end_time: 21:00:00 EDT
   url: https://www.meetup.com/miamirb/events/pdvctsygcmbvb
+
+- name: 'Miami Ruby Brigade - '
+  location: Coral Gables, FL
+  date: 2024-09-16
+  start_time: 19:00:00 EDT
+  end_time: 21:00:00 EDT
+  url: https://www.meetup.com/miamirb/events/303077048
 
 - name: Orange County Ruby Users Group - Ruby Science
   location: Online
@@ -1583,6 +1611,13 @@
   end_time: 20:00:00 EDT
   url: https://www.meetup.com/rubyjax/events/llklbtygcmbwb
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-09-17
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/303104994
+
 - name: Toulouse.rb - Conf & Apéro - Septembre
   location: Toulouse, France
   date: 2024-09-17
@@ -1604,6 +1639,13 @@
   end_time: 19:00:00 CST
   url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcmbxb
 
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-09-18
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/303114134
+
 - name: West Midlands Ruby User Group - Monthly Meetup
   location: Online
   date: 2024-09-18
@@ -1611,12 +1653,26 @@
   end_time: 21:00:00 BST
   url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/rvvzzrygcmbxb
 
+- name: West Midlands Ruby User Group - Monthly Meetup
+  location: Online
+  date: 2024-09-18
+  start_time: 19:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/west-midlands-ruby-user-group-wmrug/events/303122363
+
 - name: 'Christchurch Ruby Group - Monthly Meetup: TBD'
   location: Christchurch, New Zealand
   date: 2024-09-19
   start_time: 19:30:00 NZST
   end_time: 22:30:00 NZST
   url: https://www.meetup.com/christchurch-ruby-group/events/jtzjwsygcmbzb
+
+- name: 'Christchurch Ruby Group - Monthly Meetup: TBD'
+  location: Christchurch, New Zealand
+  date: 2024-09-19
+  start_time: 19:30:00 NZST
+  end_time: 22:30:00 NZST
+  url: https://www.meetup.com/christchurch-ruby-group/events/303133371
 
 - name: Portland Ruby Brigade - Cocktails + Code
   location: Portland, OR
@@ -1639,6 +1695,20 @@
   end_time: 13:00:00 EAT
   url: https://www.meetup.com/african_ruby_community/events/hqdljtygcmbcc
 
+- name: African Ruby Community - ARC Kampala Chapter Mini workshop
+  location: Online
+  date: 2024-09-21
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/303170792
+
+- name: Pune Ruby Users Group - September Meetup
+  location: Pune, India
+  date: 2024-09-21
+  start_time: 11:00:00 IST
+  end_time: 13:00:00 IST
+  url: https://www.meetup.com/punerubymeetup/events/303153624
+
 - name: 'Auckland Ruby - Ruby Night September: Hacknight - Write your AI battle ship
     - Take 2'
   location: Auckland, New Zealand
@@ -1646,6 +1716,20 @@
   start_time: 18:30:00 NZST
   end_time: 21:30:00 NZST
   url: https://www.meetup.com/aucklandruby/events/299606026
+
+- name: 'Bangkok.rb - Ruby Tuesday #57'
+  location: เขตวัฒนา, Thailand
+  date: 2024-09-24
+  start_time: 18:30:00 +07
+  end_time: 20:30:00 +07
+  url: https://www.meetup.com/bangkok-rb/events/303075559
+
+- name: 'BelfastRuby - Ruby On Rails: TBD'
+  location: Belfast, United Kingdom of Great Britain and Northern Ireland
+  date: 2024-09-24
+  start_time: 19:00:00 BST
+  end_time: 21:00:00 BST
+  url: https://www.meetup.com/belfastruby/events/303119630
 
 - name: RubyJax - Open Hax
   location: Jacksonville, FL
@@ -2263,12 +2347,47 @@
   end_time: 20:00:00 PDT
   url: https://www.meetup.com/portland-ruby-brigade/events/qtnwktygcpbcc
 
+- name: RubyJax - Open Hax
+  location: Jacksonville, FL
+  date: 2024-11-26
+  start_time: 18:30:00 EDT
+  end_time: 20:00:00 EDT
+  url: https://www.meetup.com/rubyjax/events/llklbtygcpbjc
+
+- name: Rails Taiwan - 高雄 Rails Meetup
+  location: Kaohsiung, Taiwan, Province of China
+  date: 2024-11-27
+  start_time: 19:00:00 CST
+  end_time: 19:00:00 CST
+  url: https://www.meetup.com/rails-taiwan/events/qxfvjkygcpbkc
+
 - name: Ruby on Rails Switzerland - Railshöck at On Running
   location: Zurich, Switzerland
   date: 2024-11-27
   start_time: 18:30:00 CET
   end_time: 20:30:00 CET
   url: https://www.meetup.com/rubyonrails-ch/events/301751612
+
+- name: Ruby and Rails Melbourne - Melbourne Ruby
+  location: Southbank, Australia
+  date: 2024-11-28
+  start_time: 18:00:00 AEST
+  end_time: 21:00:00 AEST
+  url: https://www.meetup.com/ruby-on-rails-oceania-melbourne/events/297781304
+
+- name: Ruby and Rails Adelaide - Ruby Burgers
+  location: Adelaide, Australia
+  date: 2024-11-29
+  start_time: 18:00:00 ACST
+  end_time: 20:00:00 ACST
+  url: https://www.meetup.com/adelaiderb/events/dzcvqsygcpbmc
+
+- name: African Ruby Community - ARC Kampala Chapter Mini workshop
+  location: Online
+  date: 2024-11-30
+  start_time: 11:00:00 EAT
+  end_time: 13:00:00 EAT
+  url: https://www.meetup.com/african_ruby_community/events/301647150
 
 - name: Bluegrass Ruby Users Group - December 2024
   location: Lexington, KY
